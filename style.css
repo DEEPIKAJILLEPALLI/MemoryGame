@@ -1,0 +1,23 @@
+.grid {
+    width: 400px;
+    height: 300px;
+    flex-wrap: wrap;
+    display: flex;
+}
+
+img {
+    margin: 2px;
+    border-radius: 10px ;
+    -webkit-border-radius: 10px ;
+    -moz-border-radius: 10px ;
+    -ms-border-radius: 10px ;
+    -o-border-radius: 10px ;
+}
+
+span {
+    text-align: center;
+    color:green;
+    font-weight: 500px;
+    font-size: large;
+    margin: auto;
+}
